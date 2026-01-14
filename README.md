@@ -19,3 +19,14 @@
 #### ◉[@sanuwaofficial](https://github.com/sanuwaofficial) for apk downloader and help. 
 #### ◉[@edm-official](https://github.com/edm-official) for base and help.
 #### ◉[@DarkMakerofc](https://github.com/DarkMakerofc) for help. 
+
+## Free Hosting (GitHub Pages)
+
+You can host the landing page for free using GitHub Pages.
+
+1. Push this repository to GitHub.
+2. In GitHub, go to **Settings → Pages**.
+3. Under **Build and deployment**, select **GitHub Actions**.
+4. The workflow will deploy the site from the `site/` folder automatically.
+5. After deployment, your page will be available at:
+   `https://<your-username>.github.io/<your-repo>/`
